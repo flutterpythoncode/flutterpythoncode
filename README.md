@@ -14,7 +14,8 @@
 - 📱 Mobile Apps: Flutter, React Native, Android (Java)  
 - 🌐 Web: React, JavaScript, HTML, CSS  
 - 🐍 Backend: Python, Django  
-- 🛒 CMS: WordPress, Shopify, Squarespace, Webflow  
+- 🛒 CMS: WordPress, Shopify, Squarespace, Webflow
+- 🌐 Figma. 
 - 🎯 Focus: Performance, scalability & clean UI  
 
 ---
