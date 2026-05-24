@@ -1,160 +1,39 @@
-# Project Name
+# Hi, I'm Imran 👋
 
-Short one-line description of what your project does.
+## 💻 Mobile App & Full Stack Developer
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
-
----
-
-## 📖 Overview
-
-Explain the purpose of the project.
-
-- What problem does it solve?
-- Who is it for?
-- Why does it exist?
+I am a passionate **Full Stack Developer** with 3+ years of experience building mobile and web applications. I focus on creating clean, scalable, and user-friendly solutions.
 
 ---
 
-## ✨ Features
+## 🚀 Tech Stack
 
-- Feature 1
-- Feature 2
-- Feature 3
-
----
-
-## 📸 Screenshots
-
-Add screenshots or GIFs here.
-
-```md
-![App Screenshot](./assets/screenshot.png)
-```
+- 📱 Mobile Development: Flutter, React Native, Android (Java)
+- 🌐 Web Development: React, JavaScript, HTML, CSS
+- 🐍 Backend: Python, Django
+- 🛒 CMS & E-commerce: WordPress, Shopify, Squarespace, Webflow
 
 ---
 
-## 🛠 Tech Stack
+## 💼 Experience
 
-**Frontend:** React, Next.js, TailwindCSS  
-**Backend:** Node.js, Express  
-**Database:** PostgreSQL
-
----
-
-## 🚀 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/username/project-name.git
-```
-
-Go to the project directory:
-
-```bash
-cd project-name
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
+- 3+ years of professional development experience
+- Built mobile apps and full-stack web applications
+- Worked with CMS platforms and custom e-commerce solutions
 
 ---
 
-## ▶️ Usage
+## 📫 Contact
 
-Start the development server:
-
-```bash
-npm run dev
-```
-
-Build for production:
-
-```bash
-npm run build
-```
+- 📧 Email: imran6219567@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-imran-manzoor-ahmad-030b52242
 
 ---
 
-## ⚙️ Environment Variables
+## 📌 About Me
 
-Create a `.env` file in the root directory:
-
-```env
-API_KEY=your_api_key
-DATABASE_URL=your_database_url
-```
+I enjoy turning ideas into real-world digital products, focusing on performance, usability, and clean design.
 
 ---
 
-## 📂 Project Structure
-
-```bash
-project-name/
-│── src/
-│   ├── components/
-│   ├── pages/
-│   └── utils/
-│── public/
-│── package.json
-│── README.md
-```
-
----
-
-## 🧪 Running Tests
-
-```bash
-npm test
-```
-
----
-
-## 📦 Deployment
-
-Example deployment platforms:
-
-- Vercel
-- Netlify
-- Docker
-- AWS
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the project
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
----
-
-## 👤 Author
-
-**Your Name**
-
-- GitHub: https://github.com/yourusername
-- Twitter: https://twitter.com/yourhandle
-
----
-
-## 🙌 Acknowledgements
-
-- Open source contributors
-- Libraries used
-- Inspiration sources
+⭐ Always open to collaboration and new opportunities.
