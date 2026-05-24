@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Imran</h1>
 
-<h3 align="center">
-  Mobile App & Full Stack Developer 🚀
-</h3>
+<h3 align="center">Mobile App & Full Stack Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Flutter+Developer;React+Native+Developer;Android+Java+Developer;Python+Django+Developer;Full+Stack+Web+Developer;UI%2FUX+Focused+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Flutter+Developer;React+Native+Developer;Android+Java+Developer;Python+Django+Developer;Full+Stack+Web+Developer;UI%2FUX+Focused+Engineer" />
 </p>
 
 ---
@@ -13,11 +11,11 @@
 ## 🚀 About Me
 
 - 💻 3+ Years Experience in Software Development  
-- 📱 Mobile Apps with Flutter & React Native  
-- 🌐 Full Stack Web Development  
-- 🐍 Backend with Python & Django  
+- 📱 Mobile Apps: Flutter, React Native, Android (Java)  
+- 🌐 Web: React, JavaScript, HTML, CSS  
+- 🐍 Backend: Python, Django  
 - 🛒 CMS: WordPress, Shopify, Squarespace, Webflow  
-- 🎯 Focused on clean UI, performance & scalable systems  
+- 🎯 Focus: Performance, scalability & clean UI  
 
 ---
 
@@ -30,7 +28,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
-### 🌐 Web Development
+### 🌐 Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -70,7 +68,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Animation)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
@@ -78,10 +76,10 @@
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity Graph (FIXED)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -102,7 +100,5 @@
 ## 💡 Quote
 
 <p align="center">
-  <i>"Code is not just instructions — it's creativity turned into reality."</i>
+  <i>"Turning ideas into real-world digital products through clean and scalable code."</i>
 </p>
-
----
